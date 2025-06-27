@@ -91,6 +91,3 @@ Total time: 12.3456 seconds, Samples: 15600, Avg time per sample: 0.000792 secon
 * 批量推理：可将 `Reranker.predict_score` 修改为支持批量输入以提升效率。
 * 自定义评测：替换 `evaluate_on_lcqmc` 中的数据集为其他任务。
 
----
-
-如有问题或建议，欢迎提交 Issue 或联系维护者。
